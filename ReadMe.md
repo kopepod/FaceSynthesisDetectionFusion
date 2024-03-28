@@ -1,4 +1,4 @@
-# BayesianFusion
+# Detecting Face Synthesis Using a Concealed Fusion Model
 
 <img src="https://github.com/kopepod/FaceSynthesisDetectionFusion/blob/main/Pipeline.png" width="1200" height="200" />
 
