@@ -89,7 +89,7 @@ python Main.py TrainBankModel --DatasetPath <>  --Model RS-34 --Device "cuda:0" 
 To generate the features from each individual model use:
 
 ```bash
-
+python Main.py FuseFeatures --DatasetPath <> --ModelsFilePath ./MODELS/
 ```
 
 
